@@ -12,11 +12,11 @@
 * Features: Include duration, protocol type, service, flag, source/destination bytes, and many more.
 
 # Tools & Technologies
-* IBM Watson Studio – Cloud-based platform for building and training models
-* AutoAI (IBM Watson) – Automated machine learning pipeline generation
-* IBM Cloud Object Storage – Used to store and access the dataset
-* Python (Jupyter Notebook) – Used to run and visualize the AutoAI workflow.
-* Watson Machine Learning Runtime – Execution environment for training and evaluating models
+* IBM Watson Studio: Cloud-based platform for building and training models
+* AutoAI (IBM Watson): Automated machine learning pipeline generation
+* IBM Cloud Object Storage: Used to store and access the dataset
+* Python (Jupyter Notebook): Used to run and visualize the AutoAI workflow.
+* Watson Machine Learning Runtime: Execution environment for training and evaluating models
 
 # Model used
 
