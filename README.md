@@ -20,10 +20,8 @@
 
 # Model used
 
-* Decision Tree
- A traditional, interpretable model suitable for classification tasks.
-* Snap Decision Tree
- A variation of the traditional Decision Tree algorithm, optimized for faster execution and simplified decision-making while maintaining similar classification logic.
+* Decision Tree: A traditional, interpretable model suitable for classification tasks.
+* Snap Decision Tree: A variation of the traditional Decision Tree algorithm, optimized for faster execution and simplified decision-making while maintaining similar classification logic.
 
 # Model Workflow
 
@@ -35,7 +33,10 @@ This section outlines the full end-to-end process used to build and evaluate the
 4. Automatic pipeline selection based on validation scores  
 5. Evaluation and export of best-performing model
 
+
+
 ![Model Workflow](images/progress_map.png)
+
 
 
 # Model Architecture Insights
@@ -45,7 +46,9 @@ This section outlines the full end-to-end process used to build and evaluate the
 * This architecture ensures high reusability, scalability, and a clear structure for managing various machine learning tasks.
 
 
+
 ![Model Architecture](images/relationship_map.png)
+
 
 
 # Evaluation
@@ -60,7 +63,9 @@ Model performance was assessed using cross-validation across several key metrics
 These metrics helped in identifying the most balanced and robust model for intrusion detection.
 
 
+
 ![Model Evaluation Metrics](images/metric_chart.png)
+
 
 
 # Result
@@ -68,7 +73,9 @@ These metrics helped in identifying the most balanced and robust model for intru
 The model was deployed using IBM Watson Studio and tested on real network traffic samples. The system outputs binary classification results that determine whether the observed traffic is normal or an anomaly, helping identify potential threats in the network.
 
 
+
 ![Model Prediction Results](images/result.png)
+
 
 
 # Disclaimer
