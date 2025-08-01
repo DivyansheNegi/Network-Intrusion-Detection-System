@@ -55,7 +55,7 @@ These metrics helped in identifying the most balanced and robust model for intru
 
 The model was deployed using IBM Watson Studio and tested on real network traffic data. Below is the output of the binary classification system, identifying whether the traffic is normal or an anomaly based on the model’s predictions.
 
-![Model Prediction Results](images/results.png)
+![Model Prediction Results](images/result.png)
 
 
 # Disclaimer
