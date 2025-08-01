@@ -3,12 +3,12 @@
 * Developed using IBM Cloud and Watson Studio (Watson AI), it identifies network intrusions such as Denial-of-Service (DoS) and Probe attacks.  
 * The project analyzes labeled network traffic data to distinguish between normal activity and potential security threats.
 
-#DATASET
+# DATASET
 * Source[Kaggle – Network Intrusion Detection](https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection)
 * Format: CSV
 * Target: class column indicating normal or attack types.
 
-#MODEL USED
+# MODEL USED
 * Decision Tree
 * Snap Decision Tree
 
