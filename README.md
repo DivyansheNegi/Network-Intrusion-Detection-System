@@ -32,24 +32,24 @@ This section outlines the full end-to-end process used to build and evaluate the
 3. Model experimentation using various algorithms  
 4. Automatic pipeline selection based on validation scores  
 5. Evaluation and export of best-performing model
-
 <br>
 <br>
 
 ![Model Workflow](images/progress_map.png)
-<br>
-<br>
 
+<br>
+<br>
 
 # Model Architecture Insights
 
 * The system intelligently connects components such as data transformers, feature selectors, and model evaluators.
 * It also incorporates a 3-fold cross-validation approach along with a separate holdout set for final model assessment.
 * This architecture ensures high reusability, scalability, and a clear structure for managing various machine learning tasks.
+<br>
+<br>
 
-<br>
-<br>
-![Model Architecture](images/relationship_map.png)
+![Model Architecture Insights](images/relationship_map.png)
+
 <br>
 <br>
 
@@ -61,27 +61,25 @@ Model performance was assessed using cross-validation across several key metrics
 * Recall
 * F1-Score
 * Log Loss
-* ROC-AUC <br>These metrics helped in identifying the most balanced and robust model for intrusion detection.
+* ROC-AUC<br>These metrics helped in identifying the most balanced and robust model for intrusion detection.
 <br>
 <br>
-
 
 ![Model Evaluation Metrics](images/metric_chart.png)
-<br>
-<br>
 
+<br>
+<br>
 
 # Result
 
 The model was deployed using IBM Watson Studio and tested on real network traffic samples. The system outputs binary classification results that determine whether the observed traffic is normal or an anomaly, helping identify potential threats in the network.
-
 <br>
 <br>
 
 ![Model Prediction Results](images/result.png)
-<br>
-<br>
 
+<br>
+<br>
 
 # Disclaimer
 
