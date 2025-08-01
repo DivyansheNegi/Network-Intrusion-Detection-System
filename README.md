@@ -60,7 +60,7 @@ Model performance was assessed using cross-validation across several key metrics
 * F1-Score
 * Log Loss
 * ROC-AUC
-These metrics helped in identifying the most balanced and robust model for intrusion detection.
+* These metrics helped in identifying the most balanced and robust model for intrusion detection.
 
 
 
