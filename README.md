@@ -81,4 +81,4 @@ The model was deployed using IBM Watson Studio and tested on real network traffi
 
 # Disclaimer
 
-* The dataset used in this project belongs to its original creators on Kaggle. This repository uses the dataset solely for educational and research purposes.
+The dataset used in this project belongs to its original creators on Kaggle. This repository uses the dataset solely for educational and research purposes.
